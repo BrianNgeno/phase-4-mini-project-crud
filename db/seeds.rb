@@ -1,5 +1,6 @@
 puts "🌱 Seeding spices..."
 
+
 # Spice Data from spicejungle.com
 Spice.create!([
   {
